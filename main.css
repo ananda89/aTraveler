@@ -33,7 +33,7 @@ header p {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  background-image: url("https://github.com/ananda89/aTraveler/blob/master/22.jpg");
+  background-image: url("aTraveler/blob/master/22.jpg");
   background-size: cover;
   color: #00ffff;
   height: 600px;
