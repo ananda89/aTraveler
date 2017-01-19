@@ -16,8 +16,7 @@ footer .row {
 header h1 {
   font-weight: 700;
   margin: 0;
-  color:white;
-    font: arial;
+  font: arial;
 }
 
 header nav {
@@ -54,6 +53,7 @@ header p {
 }
 p.remakri {
 font-size: 12px;
+  font-weight: 600;
    align-items: center;
 }
 section .row img {
