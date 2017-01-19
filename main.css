@@ -17,6 +17,7 @@ header h1 {
   font-weight: 700;
   margin: 0;
   color:black
+    font: arial;
 }
 
 header nav {
